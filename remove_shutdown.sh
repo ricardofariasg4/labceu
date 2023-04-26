@@ -1,0 +1,1 @@
+ln -s /lib/systemd/system/reboot.target /etc/systemd/system/poweroff.target
