@@ -1,0 +1,1 @@
+apt autoremove -y && rm -rf -y /var/lib/apt/lists/* /tmp/* /var/tmp/*
