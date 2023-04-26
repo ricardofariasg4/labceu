@@ -19,13 +19,13 @@ Link: https://www.hostinger.com.br/tutoriais/cron-job-guia
 # Fluxo de operação das máquinas
 
 Ao ligar:
-    1 - restore.sh é acionado para recuperar o ambiente padrão
-    2 - remove_shutdown.sh remove a função de desligamento do sistema, linkando para o reboot
+1 - restore.sh é acionado para recuperar o ambiente padrão
+2 - remove_shutdown.sh remove a função de desligamento do sistema, linkando para o reboot
 
 Às 00:00:
-    3 - update.sh atualiza os computadores
-    4 - clean.sh limpa o lixo do sistema
+3 - update.sh atualiza os computadores
+4 - clean.sh limpa o lixo do sistema
 
 Às 2:00:
-    5 - restore_shutdown.sh devolve a função de desligamento dos computadores
-    6 - poweroff.sh é acionado para desligar as máquinas
+5 - restore_shutdown.sh devolve a função de desligamento dos computadores
+6 - poweroff.sh é acionado para desligar as máquinas
