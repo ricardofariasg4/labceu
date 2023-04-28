@@ -34,4 +34,4 @@ Ao ligar:
 # Melhorias
 
 M1: Tentar fazer uso do preload ou snapshots do linux (mais avançado) para melhorias de performance
-M2: Criar um servidor de arquivos dedicado para persistir dados de usuários
+<br>M2: Criar um servidor de arquivos dedicado para persistir dados de usuários
