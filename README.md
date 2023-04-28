@@ -30,3 +30,8 @@ Ao ligar:
 Às 2:00:
 <br>5 - restore_shutdown.sh devolve a função de desligamento dos computadores
 <br>6 - poweroff.sh é acionado para desligar as máquinas
+
+# Melhorias
+
+M1: Tentar fazer uso do preload ou snapshots do linux (mais avançado) para melhorias de performance
+M2: Criar um servidor de arquivos dedicado para persistir dados de usuários
